@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MarceloAbbi
 - 👀 I’m interested in coding and learn new stuff with programming languages
-- 🌱 I’m currently learning mobile software development and SQL
+- 🌱 I’m currently learning mobile software development and React
 - 💞️ I’m looking to collaborate on anything that can bring me knowledge
 - 📫 How to reach me - Email: marcelo.abbi@outlook.com
